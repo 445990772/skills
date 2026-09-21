@@ -1,6 +1,6 @@
 # 学习与培训文档编写 Skill
 
-本仓库仅维护 **[learning-training-documentation](learning-training-documentation/SKILL.md)**，用于编写课程教材、培训文档、学习指南、操作手册及配套参考资料。
+本仓库仅维护 **[learning-training-documentation](learning-training-documentation/SKILL.md)**，用于编写课程教材、培训文档、学习指南、操作手册、功能配置说明、常见问题合集及配套参考资料。
 
 它从原有 `saas-training-documentation` 提炼而来，适用于技术和非技术主题，例如概念学习、命令行教程、软件操作和业务培训。
 
