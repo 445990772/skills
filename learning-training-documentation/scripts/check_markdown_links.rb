@@ -45,7 +45,7 @@ files.each do |file_name|
     next if target.match?(%r{\A(?:https?|mailto|data):}i)
 
     path_target, anchor = target.split('#', 2)
-    clean_target = path_target.split('?', 2).first
+    clean_target = path_target.split('?', 2).first.to_s
     if clean_target.empty?
       path = file
     else
