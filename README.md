@@ -10,9 +10,10 @@
 - 以完整示例、关键选择、独立练习和验收形成学习闭环。
 - 明确前置条件、操作步骤、参数来源、异常恢复和适用的角色交接。
 - 按场景使用资料、推导、运行输出、截图或测量结果验证事实。
+- 按用途绘制文档配图和插图，核对实际显示字号、配色、留白、对齐与多宽度承载效果。
 - 通过编写标准、课程设计和质量门禁检查材料能否独立使用。
 
-目录内包含 `SKILL.md`、界面元数据、3 份参考规范和 Markdown 链接校验脚本。使用时复制整个 `learning-training-documentation` 目录，保留配套文件。
+目录内包含 `SKILL.md`、界面元数据、4 份参考规范和 Markdown 链接校验脚本。使用时复制整个 `learning-training-documentation` 目录，保留配套文件。
 
 ```sh
 ruby learning-training-documentation/scripts/check_markdown_links.rb /path/to/learning-docs
